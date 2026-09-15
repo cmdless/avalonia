@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Cmdless.UI.Runtime/Cmdless.UI.Runtime.csproj" />
+  <Project Path="Cmdless.UI.SDK/Cmdless.UI.SDK.csproj" />
+  <Project Path="Cmdless.UI/Cmdless.UI.csproj" />
+</Solution>

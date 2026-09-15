@@ -1,0 +1,10 @@
+<Project>
+  <PropertyGroup>
+    <CmdlessRuntimePackage>Cmdless.UI.Runtime</CmdlessRuntimePackage>
+    <CmdlessRuntimeVersion>0.0.1</CmdlessRuntimeVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AssemblyMetadata Include="CmdlessRuntimePackage" Value="$(CmdlessRuntimePackage)" />
+    <AssemblyMetadata Include="CmdlessRuntimeVersion" Value="$(CmdlessRuntimeVersion)" />
+  </ItemGroup>
+</Project>
